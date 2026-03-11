@@ -1,0 +1,100 @@
+8-bit,+belle,+penny,+mandy,+piper,+squeak
+allie,+bull,+draco,+r-t,+doug,+ash
+amber,+byron,+bonnie,+belle,+piper,+crow
+angelo,+kit,+piper,+nani,+max,+jae-yong
+ash,+amber,+charlie,+cordelius,+frank,+bull
+barley,+kenji,+kaze,+mortis,+edgar,+miko
+bea,+charlie,+mr. p,+byron,+mandy,+sprout
+belle,+piper,+mandy,+byron,+kit,+lily
+berry,+barley,+stu,+kenji,+kit,+mortis
+bibi,+cordelius,+el primo,+surge,+tara,+bull
+bo,+gus,+kaze,+leon,+jae-yong,+stu
+bonnie,+charlie,+piper,+r-t,+gus,+tara
+brock,+piper,+mandy,+nani,+max,+kaze
+bull,+cordelius,+dynamike,+otis,+griff,+nita
+buster,+dynamike,+r-t,+ash,+darryl,+bull
+buzz,+dynamike,+cordelius,+bull,+charlie,+surge
+byron,+piper,+mandy,+bonnie,+mr. p,+sprout
+carl,+buzz,+dynamike,+bull,+cordelius,+bibi
+charlie,+amber,+sandy,+janet,+ziggy,+juju
+chester,+amber,+charlie,+lou,+dynamike,+stu
+chuck,+cordelius,+charlie,+dynamike,+bull,+kaze
+clancy,+charlie,+tara,+bea,+piper,+byron
+colette,+bea,+charlie,+belle,+gus,+lou
+colt,+piper,+bonnie,+belle,+gus,+byron
+cordelius,+dynamike,+frank,+sandy,+buster,+surge
+crow,+spike,+bea,+piper,+pearl,+hank
+darryl,+dynamike,+cordelius,+shelly,+griff,+r-t
+doug,+cordelius,+lou,+bea,+griff,+frank
+draco,+lou,+dynamike,+cordelius,+frank,+ash
+dynamike,+mortis,+miko,+kit,+kaze,+kenji
+edgar,+hank,+bull,+doug,+jacky,+cordelius
+el primo,+cordelius,+dynamike,+griff,+shelly,+charlie
+emz,+mortis,+kaze,+janet,+bonnie,+amber
+eve,+kit,+belle,+jae-yong,+penny,+janet
+fang,+r-t,+chester,+tara,+charlie,+draco
+finx,+gus,+charlie,+larry & lawrie,+ziggy,+juju
+frank,+el primo,+charlie,+chester,+lou,+colette
+gale,+amber,+janet,+larry & lawrie,+ziggy,+juju
+gene,+mr. p,+eve,+charlie,+tara,+belle
+gigi,+piper,+belle,+barley,+larry & lawrie,+juju
+glowy,+piper,+mandy,+nani,+belle,+brock
+gray,+jae-yong,+byron,+gus,+charlie,+mr. p
+griff,+bea,+janet,+stu,+dynamike,+ziggy
+grom,+kenji,+kit,+miko,+mortis,+kaze
+gus,+byron,+mandy,+piper,+eve,+darryl
+hank,+frank,+dynamike,+bull,+draco
+jacky,+frank,+bull,+el primo,+draco,+dynamike
+jae-yong,+crow,+bonnie,+darryl,+buzz,+belle
+janet,+carl,+bonnie,+frank,+darryl,+kenji
+jessie,+berry,+barley,+larry & lawrie,+squeak,+piper
+juju,+frank,+brock,+cordelius,+kit,+tick
+kaze,+tara,+dynamike,+chester,+draco,+frank
+kenji,+bull,+frank,+draco,+cordelius,+dynamike
+kit,+frank,+hank,+allie,+lily,+cordelius
+larry & lawrie,+edgar,+kenji,+kaze,+kit,+tick
+leon,+crow,+jae-yong,+dynamike,+janet,+charlie
+lily,+cordelius,+bull,+draco,+r-t,+pearl
+lola,+amber,+belle,+carl,+lou,+penny
+lou,+gus,+byron,+bea,+bo
+lumi,+mortis,+kaze,+larry & lawrie,+juju,+barley
+maisie,+charlie,+stu,+dynamike,+larry & lawrie,+juju
+mandy,+nani,+max,+sprout,+tick,+juju
+max,+lola,+stu,+crow,+gus,+jae-yong
+meeple,+frank,+bull,+hank,+kenji,+cordelius
+meg,+bea,+lola,+bonnie,+charlie,+buster
+melodie,+buzz,+draco,+amber,+crow,+belle
+mico,+frank,+bull,+r-t,+draco,+doug
+mina,+bea,+bonnie,+tara,+fang,+shelly
+moe,+stu,+chester,+bull,+buster,+darryl
+mortis,+shelly,+bull,+dynamike,+griff,+chester
+mr. p,+darryl,+edgar,+mortis,+kenji,+kaze
+nani,+max,+gene,+sprout,+tick,+darryl
+nita,+cordelius,+amber,+griff,+juju,+larry & lawrie
+ollie,+poco,+buster,+cordelius,+charlie,+dynamike
+otis,+amber,+janet,+stu,+larry & lawrie,+juju
+pam,+8-bit,+charlie,+lou,+crow
+pearl,+r-t,+8-bit,+lola,+dynamike,+stu
+penny,+juju,+larry & lawrie,+berry,+kit,+kenji
+pierce,+edgar,+mortis,+lily,+kit,+kaze
+piper,+nani,+gene,+max,+kit,+kaze
+poco,+emz,+kit,+mortis,+kaze,+kenji
+r-t,+jae-yong,+max,+leon,+gus,+lou
+rico,+stu,+brock,+dynamike,+larry & lawrie,+juju
+rosa,+el primo,+shelly,+bull,+frank,+amber
+ruffs,+mortis,+kenji,+carl,+amber,+ollie
+sam,+cordelius,+charlie,+surge,+griff,+nita
+sandy,+nita,+janet,+draco,+darryl,+kenji
+shade,+lou,+frank,+bull,+hank,+jacky
+shelly,+tara,+nita,+amber,+stu,+charlie
+sirius,+frank,+lumi,+poco,+penny,+pierce
+spike,+carl,+piper,+larry & lawrie,+juju,+ziggy
+sprout,+kaze,+kenji,+mortis,+edgar,+miko
+squeak,+kenji,+maisie,+buzz,+kaze,+darryl
+stu,+ruffs,+tara,+charlie,+pam,+poco
+surge,+ruffs,+tara,+charlie,+larry & lawrie,+juju
+tara,+amber,+sandy,+janet,+juju,+larry & lawrie
+tick,+kenji,+kit,+mortis,+kaze,+darryl
+trunk,+frank,+draco,+bull,+el primo,+dynamike
+willow,+barley,+larry & lawrie,+juju,+stu,+buzz
+ziggy,+mortis,+edgar,+kaze,+kenji,+kit
